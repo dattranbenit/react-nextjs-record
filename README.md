@@ -3,7 +3,7 @@ This is a package supporting react framework which is used to record voice & dea
 
 
 ## 🚀 Demo
-  https://react-nextjs-record.vercel.app/
+<a href="https://react-nextjs-record.vercel.app/">Demo</a>
 
 ## ✨ Guideline
 
